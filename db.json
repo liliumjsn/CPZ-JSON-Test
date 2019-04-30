@@ -1,6 +1,8 @@
 { "users":[
-  {"Username":"Paul","IsOnline":true, "HasUnreadMessages"=true}, 
-  {"Username":"Anna","IsOnline":true, "HasUnreadMessages"=false},  
-  {"Username":"Lizzy","IsOnline":false, "HasUnreadMessages"=false}
+  {"Username":"Paul","IsOnline":true, "HasUnreadMessages":true}, 
+  {"Username":"Anna","IsOnline":true, "HasUnreadMessages":false},  
+  {"Username":"Lizzy","IsOnline":false, "HasUnreadMessages":false},
+  {"Username":"John","IsOnline":false, "HasUnreadMessages":false},
+  {"Username":"Stacy","IsOnline":false, "HasUnreadMessages":false}
   ]
 }
