@@ -1,0 +1,6 @@
+{ "users":[
+  {"Username":"Paul","IsOnline":true, "HasUnreadMessages"=true}, 
+  {"Username":"Anna","IsOnline":true, "HasUnreadMessages"=false},  
+  {"Username":"Lizzy","IsOnline":false, "HasUnreadMessages"=false}
+  ]
+}
