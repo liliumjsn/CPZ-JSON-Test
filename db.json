@@ -1,9 +1,9 @@
 { "Users":[
-  {"Username":"Paul","IsOnline":true, "HasUnreadMessages":true}, 
-  {"Username":"Anna","IsOnline":true, "HasUnreadMessages":false},  
-  {"Username":"Lizzy","IsOnline":false, "HasUnreadMessages":false},
-  {"Username":"John","IsOnline":false, "HasUnreadMessages":false},
-  {"Username":"Stacy","IsOnline":false, "HasUnreadMessages":false}
+  {"Username":"Paul","Is_active":true, "HasUnreadMessages":true}, 
+  {"Username":"Anna","Is_active":true, "HasUnreadMessages":false},  
+  {"Username":"Lizzy","Is_active":false, "HasUnreadMessages":false},
+  {"Username":"John","Is_active":false, "HasUnreadMessages":false},
+  {"Username":"Stacy","Is_active":false, "HasUnreadMessages":false}
   ],
  "Paul":[
   {"IsMine":false,"Content":"Hello", "Timestamp":"2012-04-23T18:25:43.511Z"}, 
